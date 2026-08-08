@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "canal": "whatsapp",
+    "de": "+5527999990001",
+    "texto": "Oi, sou a Maria Aparecida, meu processo 0010702-33.2024.5.03.0069 teve audiencia marcada? me falaram que é semana que vem, to preocupada"
+  },
+  {
+    "id": 2,
+    "canal": "email",
+    "de": "joao.silva@gmail.com",
+    "texto": "Prezados, segue em anexo a CTPS digitalizada que o dr. pediu. Att, João Silva"
+  },
+  {
+    "id": 3,
+    "canal": "whatsapp",
+    "de": "+5527999990002",
+    "texto": "PROMOÇÃO IMPERDÍVEL!!! Consorcio contemplado, fale ja com nosso consultor"
+  },
+  {
+    "id": 4,
+    "canal": "email",
+    "de": "carlos.pereira@uol.com.br",
+    "texto": "Bom dia. Recebi uma intimação dizendo que tenho até 15/08/2026 para me manifestar no processo 0011456-78.2025.5.03.0132. O que eu faço? Carlos"
+  },
+  {
+    "id": 5,
+    "canal": "whatsapp",
+    "de": "+5527999990003",
+    "texto": "boa tarde, queria marcar um horario pra conversar sobre uma demissao que aconteceu comigo ontem, posso ir ai amanha?"
+  },
+  {
+    "id": 6,
+    "canal": "email",
+    "de": "financeiro@empresa.com.br",
+    "texto": "Encaminhamos o comprovante de pagamento da 2a parcela dos honorários, contrato 2026-041."
+  },
+  {
+    "id": 7,
+    "canal": "whatsapp",
+    "de": "+5527999990004",
+    "texto": "o dr me pediu o laudo do inss, ta aqui a foto"
+  },
+  {
+    "id": 8,
+    "canal": "whatsapp",
+    "de": "+5527999990005",
+    "texto": "Meu nome é Antônio, trabalhei 12 anos na mineradora e quero saber se tenho direito a insalubridade. Quem me indicou foi o Pedro."
+  },
+  {
+    "id": 9,
+    "canal": "email",
+    "de": "adv.contrario@escritorioxyz.com.br",
+    "texto": "Dr., conforme conversado, proponho acordo no processo 0009988-11.2023.5.03.0069 no valor de R$ 45.000. Prazo para resposta: 08/08/2026."
+  },
+  {
+    "id": 10,
+    "canal": "whatsapp",
+    "de": "+5527999990006",
+    "texto": "vcs atendem direito de familia? preciso de divorcio"
+  }
+]

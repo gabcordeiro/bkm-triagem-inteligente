@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CLI-0012",
+    "nome": "Maria Aparecida Souza",
+    "contatos": ["+5527999990001"],
+    "processos": ["0010702-33.2024.5.03.0069"]
+  },
+  {
+    "id": "CLI-0034",
+    "nome": "João Silva",
+    "contatos": ["joao.silva@gmail.com", "+5527988887777"],
+    "processos": []
+  },
+  {
+    "id": "CLI-0051",
+    "nome": "Carlos Pereira",
+    "contatos": ["carlos.pereira@uol.com.br"],
+    "processos": ["0011456-78.2025.5.03.0132"]
+  },
+  {
+    "id": "CLI-0077",
+    "nome": "Empresa Beta Serviços LTDA",
+    "contatos": ["financeiro@empresa.com.br"],
+    "processos": []
+  },
+  {
+    "id": "CLI-0090",
+    "nome": "Rita de Cassia Nunes",
+    "contatos": ["+5527999990004"],
+    "processos": ["0009988-11.2023.5.03.0069"]
+  }
+]
